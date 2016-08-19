@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'R4nd0m 6uy'
 SITENAME = "R4nd0m's Blog"
-SITEURL = 'http://www.r4nd0m6uy.ch'
+SITEURL = 'https://www.r4nd0m6uy.ch'
+#SITEURL = 'http://localhost:8000'
 FAVICON = SITEURL + '/images/favicon.ico'
 PATH = 'content'
 TIMEZONE = 'Europe/Zurich'
@@ -27,7 +28,7 @@ SOCIAL =  (
 #RELATIVE_URLS = True
 
 # Flex template configuration
-THEME = u'themes/flex'
+THEME = 'themes/flex'
 SITETITLE = 'R4nd0m\'s'
 SITESUBTITLE = 'Software Engineer'
 SITEDESCRIPTION = 'Description'
