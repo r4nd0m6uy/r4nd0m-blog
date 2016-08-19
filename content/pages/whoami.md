@@ -23,7 +23,8 @@ other things.
 
 ## Skateboard
 When the weather permits, I go out and go down the hill with my skateboards. I
-have few at home but my favorite is a Penny like that is made from wood.
+have few at home but my favorite is a [Penny](http://www.pennyskateboards.com/)
+alike that is made from wood.
 
 ## Video games
 I like playing video games with a strong emphasis on retro gaming.
