@@ -33,7 +33,7 @@ I wish I could call myself a musician but I mostly play for fun and to relax. I
 learned keyboard when I was young and play with the old keyboards I got from my
 father [who is a real pianist](http://bulls-band.ch/).
 
-I'm very glad to have some treasures like is old
+I'm very glad to have some treasures like his old
 [Fender Rhodes](https://en.wikipedia.org/wiki/Rhodes_piano) and his
 [Yamaha DX-7](https://en.wikipedia.org/wiki/Yamaha_DX7). Unfortunately they
 don't work as if they were brand new but I'm planning to fix that issue soon or
