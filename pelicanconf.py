@@ -27,7 +27,7 @@ SOCIAL =  (
 #RELATIVE_URLS = True
 
 # Flex template configuration
-THEME = u'../flex'
+THEME = u'themes/flex'
 SITETITLE = 'R4nd0m\'s'
 SITESUBTITLE = 'Software Engineer'
 SITEDESCRIPTION = 'Description'
