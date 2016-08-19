@@ -3,7 +3,7 @@ Date: 2016-08-19 19:00
 Category: News
 Tags: none
 
-I'm [R4nd0m 6uy](http://r4nd0m6uy.ch) and live in
+I'm Guy Morand, aka [R4nd0m 6uy](http://r4nd0m6uy.ch) and live in
 [Fribourg](http://www.fribourgtourisme.ch), Switzerland.
 
 # Job
