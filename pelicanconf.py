@@ -28,7 +28,9 @@ STATIC_PATHS = [
   'images',
   'extra'
 ]
-
+EXTRA_PATH_METADATA = {
+  'extra/htaccess': {'path': '/.htaccess'},
+}
 #RELATIVE_URLS = True
 
 # Flex template configuration
