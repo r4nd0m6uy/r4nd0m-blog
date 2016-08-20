@@ -16,15 +16,19 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 5
-STATIC_PATHS = ['images']
 LINKS = (
-        )
+)
 SOCIAL =  (
-            ('rss', '//r4nd0m6uy.ch/feeds/all.atom.xml'),
-            ('github', 'https://github.com/r4nd0m6uy'),
-            ('linkedin', 'https://www.linkedin.com/in/guy-morand-6baa7223'),
-            ('soundcloud', 'https://soundcloud.com/random-guy'),
-          )
+  ('rss', '//r4nd0m6uy.ch/feeds/all.atom.xml'),
+  ('github', 'https://github.com/r4nd0m6uy'),
+  ('linkedin', 'https://www.linkedin.com/in/guy-morand-6baa7223'),
+  ('soundcloud', 'https://soundcloud.com/random-guy'),
+)
+STATIC_PATHS = [
+  'images',
+  'extra'
+]
+
 #RELATIVE_URLS = True
 
 # Flex template configuration
@@ -37,8 +41,8 @@ COPYRIGHT_YEAR = 2016
 SITELOGO = u'//en.gravatar.com/userimage/31970073/6fb72a3845a6aea9964b00bd864c29dc.png?size=200'
 MAIN_MENU = True
 MENUITEMS = (
-              ('Archives', '/archives.html'),
-              ('Categories', '/categories.html'),
-              ('Tags', '/tags.html'),
-            )
+  ('Archives', '/archives.html'),
+  ('Categories', '/categories.html'),
+  ('Tags', '/tags.html'),
+)
 
