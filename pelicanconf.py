@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'R4nd0m 6uy'
 SITENAME = "R4nd0m's Blog"
 SITEURL = 'https://www.r4nd0m6uy.ch'
-#SITEURL = 'http://localhost:8000'
+#SITEURL = 'http://192.168.0.3:8000'
 FAVICON = SITEURL + '/images/favicon.ico'
 PATH = 'content'
 TIMEZONE = 'Europe/Zurich'
@@ -30,6 +30,9 @@ STATIC_PATHS = [
 ]
 EXTRA_PATH_METADATA = {
   'extra/htaccess': {'path': '/.htaccess'},
+}
+MD_EXTENSIONS = {
+  'markdown.extensions.toc'
 }
 #RELATIVE_URLS = True
 
