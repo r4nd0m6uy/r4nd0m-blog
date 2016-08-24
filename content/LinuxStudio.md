@@ -138,7 +138,6 @@ In case you are not a Linux beast and don't know much how to tweak your system,
 there are some **Linux distributions** with everything configured and installed
 for you:
 
-* [64studio](http://www.64studio.com/): Based on Debian
 * [Ubuntu studio](https://ubuntustudio.org/): Based on Ubuntu
 * [kxstudio](http://kxstudio.linuxaudio.org/): Yet another Ubuntu based distro
 
