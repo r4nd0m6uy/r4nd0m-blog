@@ -32,7 +32,8 @@ EXTRA_PATH_METADATA = {
   'extra/htaccess': {'path': '/.htaccess'},
 }
 MD_EXTENSIONS = {
-  'markdown.extensions.toc'
+  'markdown.extensions.toc',
+  'codehilite'
 }
 #RELATIVE_URLS = True
 
