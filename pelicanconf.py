@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'R4nd0m 6uy'
 SITENAME = "R4nd0m's Blog"
-SITEURL = 'https://www.r4nd0m6uy.ch'
+SITEURL = 'https://r4nd0m6uy.ch'
 #SITEURL = 'http://192.168.0.3:8000'
 FAVICON = SITEURL + '/images/favicon.ico'
 PATH = 'content'
