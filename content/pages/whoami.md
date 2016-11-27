@@ -17,6 +17,9 @@ Alongside I take care of the
 [BSP](https://en.wikipedia.org/wiki/Board_support_package) and tweak a bit the
 [Linux kernel](http://www.kernel.org)
 
+More details about my profesional background can be found in my [curriculum
+vitae](../documents/CV-EN.pdf)
+
 # Hobbies
 Of course, my job is one of the hobby that takes most of my time but I also do
 other things.
