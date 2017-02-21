@@ -31,7 +31,7 @@ STATIC_PATHS = [
 EXTRA_PATH_METADATA = {
   'extra/htaccess': {'path': '/.htaccess'},
 }
-MD_EXTENSIONS = {
+MARKDOWN_EXTENSIONS = {
   'markdown.extensions.toc',
   'codehilite'
 }
