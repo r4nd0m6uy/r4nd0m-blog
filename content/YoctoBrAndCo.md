@@ -5,9 +5,9 @@ Tags: yocto, buildroot, bsp
 
 Here are [the slides](../documents/YoctoBuildrootAndCo.pdf) about the talk I
 gave during the [11th Fribourg Linux Seminar](
-http://fribourg-linux-seminar.ch/seminaires_linux/). I wanted to explain the
-different philosophies behing the two major build systems available in the
-comunauty.
+http://fribourg-linux-seminar.ch). I wanted to explain the different
+philosophies behing the two major build systems available in the
+comunity.
 
 Maybe my opinion was a bit flawed as I haven't used buildroot for few years and
 I know Yocto better. At then end, both projects are good, make sure you thought
