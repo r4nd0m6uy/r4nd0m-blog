@@ -6,7 +6,7 @@ Tags: tutorial, linux, lxc
 It seems that I was not the first one to struggle to make unprivildged
 linux containers working in 
 [Void Linux](http://www.voidlinux.eu/download/). In systemd/Linux
-distributions, the process is straight forward has systemd handles
+distributions, the process is straight forward as systemd handles
 things automagically for you (mostly everthing about cgroup) when in
 Void you have to configure few things by yourself.
 

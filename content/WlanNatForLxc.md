@@ -63,7 +63,7 @@ use the range 10.0.0/24 and assign the first IP available:
 Now your host system is ready for NATing!
 
 # Configuring the container
-Now we still will have to configure the newtork withing the container.
+Now we still will have to configure the newtork within the container.
 Some would prefer installing a DHCP server on the host but I like
 setting a static IP to each container, so I know how to reach them.
 
@@ -129,8 +129,8 @@ Now you can open an ssh connection to your container from your host:
 That was easy!
 
 # Start lxc script
-Now as my network configuraton has changed a bit, here is how the my 
-script to start the container looks like:
+Now as my network configuraton has changed a bit, here is how my script
+to start the container looks like:
 
     :::sh
     #!/bin/sh
