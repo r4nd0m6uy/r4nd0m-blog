@@ -1,7 +1,7 @@
 Title: Unpriviledged containers in Void Linux
 Date: 2017-02-21 19:00
 Category: Sysadmin
-Tags: tutorial, linux
+Tags: tutorial, linux, lxc
 
 It seems that I was not the first one to struggle to make unprivildged
 linux containers working in 
@@ -125,3 +125,7 @@ Some articles that helped me solving this issue:
 
 * [https://s3hh.wordpress.com/2014/03/25/introducing-cgmanager/](https://s3hh.wordpress.com/2014/03/25/introducing-cgmanager/)
 * [https://stgraber.org/2014/01/17/lxc-1-0-unprivileged-containers/](https://stgraber.org/2014/01/17/lxc-1-0-unprivileged-containers/)
+
+# Next step
+Now you have your container starting, [you probably want to configure
+the network]({filename}/WlanNatForLxc.md).
